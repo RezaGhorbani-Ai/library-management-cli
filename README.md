@@ -3,6 +3,9 @@ Library Management System CLI
 A simple command-line library management system built with Python, supporting book addition/removal, borrowing/returning, and inventory tracking.
 
 
+📸 Screenshot  
+[Program Screenshot](screenshot.png)
+
 Features
 - 📖 Add new books with unique ISBNs
 - 🗑️ Remove books by ISBN
